@@ -1,0 +1,6 @@
+<?php 
+function moduleb_helloworld()
+{
+	return "<p>Our friends at <strong>".__FUNCTION__."</strong> want to give a shout out to all the Drupal coders in da house!!!</p>";
+}
+ ?>

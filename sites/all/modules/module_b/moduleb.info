@@ -1,0 +1,6 @@
+name = Module B
+description = My second custom module.
+core = 7.x
+package = Joshua Baker
+dependencies[] = moduleb
+files[] = moduleb.module

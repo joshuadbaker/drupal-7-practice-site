@@ -1,0 +1,12 @@
+name = Module A
+description = My first custom module.
+core = 7.x
+package = Joshua Baker
+dependencies[] = modulea
+files[] = modulea.module
+
+
+
+
+
+

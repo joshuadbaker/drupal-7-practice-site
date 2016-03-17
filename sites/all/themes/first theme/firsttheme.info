@@ -1,0 +1,9 @@
+name = first theme
+description = This is my first custom theme and it is based on Stark.
+package = Core
+version = VERSION
+core = 7.x
+stylesheets[all][] = layout.css
+stylesheets[all][] = local.css
+
+
