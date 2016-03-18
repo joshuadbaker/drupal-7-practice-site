@@ -1,6 +1,7 @@
 <?php  
 function modulea_helloworld()
 {
-	return "<p>Our friends at ".__FUNCTION__." want to say Hello World!!!!</p>";
+	// return "<p>Our friends at ".__FUNCTION__." want to say Hello World!!!!</p>";
+	return array ('foo'=>'one','baz'=>'two','bar'=>'three','function'=>__FUNCTION__);
 }
 ?> 
